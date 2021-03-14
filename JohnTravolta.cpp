@@ -2,6 +2,11 @@
 #include<math.h>
 #include<stdio.h>
 
+/*Nama Anggota Kelompok bangkit : 
+   - Maliki Karim            11180910000006
+   - Nurul uswatun Hasanah   11180910000012
+   - Soufiane Fiqi Vindia    11180910000055 */
+
 using namespace std;
 
 //DEKLARASI VARIABLE
